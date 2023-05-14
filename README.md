@@ -1,5 +1,5 @@
 # spln👨🏻‍💻
-HEY! I'am spln!
+HEY! I'm spln!
 ### *FULL STACK DEVELOPER*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spln13&show_icons=true&theme=synthwave)
