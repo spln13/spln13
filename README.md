@@ -7,13 +7,15 @@ HEY! I'm spln!
 👨🏻‍💻I am highly interested in backend development and cloud-native technologies. My primary programming language is Go (Golang), and I also have proficiency in using C++ and Python.
 
 ## Work Experience
-![Bilibili](/images/bilibili-logo.png){: .align-right width="70px"}
-💻 From July 2024 to September 2024, I worked as a Backend Development Intern at [Bilibili](https://www.bilibili.com), where I was primarily responsible for the development and maintenance of a data reporting system for regulatory authorities.
+<p>
+  <img src="/images/bilibili-logo.png" alt="Bilibili" style="width:30px; height:auto; display:inline-block; vertical-align:middle; margin-right:10px;">
+  💻 From July 2024 to September 2024, I worked as a Backend Development Intern at <a href="https://www.bilibili.com">Bilibili</a>, where I was primarily responsible for the development and maintenance of a data reporting system for regulatory authorities.
+</p>
 
-![TikTok](/images/tiktok-logo.png){: .align-right width="70px"}
-💻 Since December 2024, I have been working as a Backend Development Intern at [TikTok](https://www.tiktok.com), primarily responsible for the development of TikTok's local service business.
-
-
+<p>
+  <img src="/images/tiktok-logo.png" alt="TikTok" style="width:30px; height:auto; display:inline-block; vertical-align:middle; margin-right:10px;">
+  💻 Since December 2024, I have been working as a Backend Development Intern at <a href="https://www.tiktok.com">TikTok</a>, primarily responsible for the development of TikTok's local service business.
+</p>
 
 
 ##  💻Languages & Frameworks & Tools & Abilities🔥
