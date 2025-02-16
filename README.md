@@ -1,6 +1,6 @@
 # spln👨🏻‍💻
 HEY! I'm spln!
-### *FULL STACK DEVELOPER*
+### *Backend DEVELOPER*
 
 👨🏻‍💻I am currently focusing on the field of machine learning, specifically researching the collaborative use of large and small models and personalized enhancement techniques for small models.
 
