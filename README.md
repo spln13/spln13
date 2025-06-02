@@ -6,7 +6,7 @@ HEY! I'm spln!
 
 👨🏻‍💻I am highly interested in backend development and cloud-native technologies. My primary programming language is Go (Golang), and I also have proficiency in using C++ and Python.
 
-## Work Experience
+## Internship
 <p>
 <img src="/images/bytedance-logo.png" alt="TikTok" style="width:100px; height:auto; display:inline-block; vertical-align:middle; margin-right:10px;">
 💻 Since May 2025, I have worked as a Backend Development Intern at <a href=https://www.bytedance.com>Bytedance</a>,
