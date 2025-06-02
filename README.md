@@ -8,7 +8,7 @@ HEY! I'm spln!
 
 ## Work Experience
 <p>
-
+<img src="/images/bytedance-logo.png" alt="TikTok" style="width:100px; height:auto; display:inline-block; vertical-align:middle; margin-right:10px;">
 💻 Since May 2025, I have worked as a Backend Development Intern at [Bytedance](https://www.bytedance.com),
 mainly responsible for the development of the recommendation system architecture.
 
