@@ -9,7 +9,7 @@ HEY! I'm spln!
 ## Work Experience
 <p>
 <img src="/images/bytedance-logo.png" alt="TikTok" style="width:100px; height:auto; display:inline-block; vertical-align:middle; margin-right:10px;">
-💻 Since May 2025, I have worked as a Backend Development Intern at [Bytedance](https://www.bytedance.com),
+💻 Since May 2025, I have worked as a Backend Development Intern at <a href=https://www.bytedance.com>Bytedance</a>,
 mainly responsible for the development of the recommendation system architecture.
 
 </p>
@@ -28,7 +28,7 @@ mainly responsible for the development of the recommendation system architecture
 
 
 ##  💻Languages & Frameworks & Tools & Abilities🔥
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,blender,c,cpp,django,flask,docker,git,github,gmail,go,latex,linkedin,linux,md,mysql,nginx,py,pytorch,redis,stackoverflow,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,blender,c,cpp,django,flask,docker,git,github,gmail,go,latex,linkedin,linux,java,md,mysql,nginx,py,pytorch,redis,stackoverflow,vscode,)](https://skillicons.dev)
 
 ![spln13's GitHub stats](https://github-readme-stats.vercel.app/api?username=spln13&show_icons=true&theme=synthwave)
 
